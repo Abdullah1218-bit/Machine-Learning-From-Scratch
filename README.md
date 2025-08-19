@@ -61,11 +61,8 @@
 
 <h2>🚀 How to Use</h2>
 
-1. Clone the repository  
-   ```sh
-   
-   git clone https://github.com/Abdullah1218-bit/Machine-Learning-From-Scratch.git
-   cd Machine-Learning-From-Scratch
+git clone https://github.com/Abdullah1218-bit/Machine-Learning-From-Scratch.git
+cd Machine-Learning-From-Scratch
    
 Open any dataset folder inside ml-project
 
