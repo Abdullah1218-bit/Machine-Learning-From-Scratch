@@ -40,7 +40,7 @@
 - 
 - 🔍 **cv_search_methods_cheatsheet.pdf** – Cross-validation and search methods reference.
 - 
-- 📘 **full_ml_hyperparameters_cheatsheet.pdf** – Complete hyperparameter optimization guide.
+- 📘 **full_ml_hyperparameters_cheatsheet.pdf** – Complete hyperparameters optimization guide.
 - 
 
 ---
